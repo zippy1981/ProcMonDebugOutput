@@ -4,7 +4,7 @@ A few years ago I got together with Mark Russinovich and we implemented a techni
 The ProcMonDebugOutput library supports both native C++ and managed .NET languages as well as 32-bit and 64-bit. 
 
 ## Building The Code ##
-All the projects are in Visual Studio 2013 format. I'm not using any advanced Premium or Ultimate features so everything should compile even with Visual Studio Express, but I have not tried.
+All the projects are in Visual Studio 2013 format. I'm not using any advanced Premium or Ultimate features so everything should compile even with Visual Studio Express, but I have not tried. It does build fine with Professional Edition.
 
 1. Open up ProcMonDebugOutput.SLN
 2. Select the Build, Batch Build menu
